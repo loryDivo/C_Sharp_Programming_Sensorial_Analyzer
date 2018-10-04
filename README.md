@@ -4,3 +4,4 @@ Development of a multithreaded application for the analysis of data coming from 
 To use the application you need to download:
 - Visual Studio
 - Zedgraph library (for information on how to include it please refer to the ZedGraph website)
+- XML library downloadable from the IDE visual studio
